@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Huang Huang / Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Huang Huang"
 description              : &description "personal description"
 url                      : https://hhelicopter.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,7 +85,7 @@ author:
   bio              : 
   location         : "Hangzhou, P. R. China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   email            : "1330332227@cjlu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,6 @@ author:
   lastfm           :
   linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
-  csdn             : "https://blog.csdn.net/qq_30209907"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
